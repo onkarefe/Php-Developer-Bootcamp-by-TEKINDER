@@ -1,0 +1,6 @@
+# Php-Developer-Bootcamp-by-TEKINDER
+Homework 1
+Bu ödevi hazırlarken ilk denemem hatalı sonuçlandı. Kağıt üzerinde nasıl yazmam gerektiği ile ilgili çalışırken gözümden
+kaçan bir hata vardı ve yazdıktan sonra gördüm.
+Çalışıyor gibi gözükse de değişkenler belirli bir durumu aştığında hata veriyordu.
+Geri dönüp hatalarımı görmek için koyun sayısı, kapasiteyi geçtiğinde çalışmayan halini de yüklemek istedim.
