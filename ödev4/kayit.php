@@ -30,8 +30,7 @@ class kontrol{
 
     }
     
-$deneme = new kontrol();
-$durum = $deneme->kayitdurum($tc);
+
 
 $sorgu = $baglan->prepare("insert into kimlik values(?,?,?,?)");
 $ekle = $sorgu->execute(array(NULL, $adsoyad, $tc, $durum));
