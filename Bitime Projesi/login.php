@@ -7,7 +7,6 @@ if($_POST){
   $satir = $sorgu->fetch(PDO::FETCH_ASSOC);
 
 if($satir){
-  var_dump($_POST);
   session_start();
   $_SESSION["data"]="var";
     echo "<script>
